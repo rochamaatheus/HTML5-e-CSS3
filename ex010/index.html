@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com Links</title>
+</head>
+<body>
+    <h1>Links e Âncoras</h1>
+    <hr>
+    <h2>Usando Links Externos</h2> <!-- a --> <!-- target="_blank" rel="external" -->
+    <p>Você pode acessar o meu <a href="https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf" target="_blank" rel="external">repositório público no GitHub</a>.</p>
+    <p>Você também pode acessar o meu <a href="https://youtube.com/cursoemvideo" target="_blank" rel="external">canal gratuito no YouTube</a>.</p>
+    <hr>
+    <h2>Usando Links Internos</h2> <!-- target="_self" rel="next" -->
+    <p>Esta é a primeira página do site. Se você quiser conhecer a segunda página, <a href="pag002.html" target="_self" rel="next">clique aqui</a>.</p>
+    <p>Você também pode acessar a nossa <a href="notícias/pag003.html" target="_self" rel="next">página de notícias</a>.</p>
+    <hr>
+    <h2>Links para Download</h2>
+    <ul> <!-- https://www.iana.org/assignments/media-types/media-types.xhtml (type)-->
+        <li><a href="livro/História da Internet.pdf" download="História da Internet.pdf" type="application/pdf">Baixar História da Internet em PDF</a></li>
+        <li><a href="livro/História da Internet.rar" download="História da Internet.rar" type="application/x-rar-compressed">História da Internet em .RAR</a></li> <!-- Para Arquivo RAR (application/x-rar-compressed)-->
+    </ul>
+</body>
+</html>
