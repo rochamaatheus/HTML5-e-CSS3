@@ -14,6 +14,6 @@ Vem acompanhada de 4 outras propriedades: Top, Right, Bottom e Left.
 3-Sticky: Fixa na tela quando o seu box chega na visão do usuário. 
 (Alguns navegadores não suportam o Sticky)
 
-4-Relative: Se deslocara em relação a sua posição normal.
+4-Relative: Se deslocará em relação a sua posição normal.
 
 5-Absolute: Se ajusta de maneira hierarquica.
