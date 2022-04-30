@@ -12,6 +12,14 @@
 
         table {
             width: 500px;
+            border-collapse: collapse;
+        }
+
+        caption {
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: lightgray;
         }
 
         td, th {
@@ -27,15 +35,26 @@
         td.num {
             text-align: right;
         }
+
+        tbody > tr:nth-child(odd) { /* 2n - 1 */
+            background-color: white;
+        }
+
+        tbody > tr:nth-child(even) { /* 2n */
+            background-color: lightgray;
+        }
     </style>
 </head>
 <body>
     <h1>Uso de Tabelas Grandes</h1>
     <hr>
     <table>
+        <caption>
+            População das Unidades Federativas
+        </caption>
         <thead> <!-- Cabeça -->
             <th>Estado</th>
-            <th>População</th>
+            <th style="width: 50px;">População</th>
         </thead>
 
         <tfoot> <!-- Rodapé -->
