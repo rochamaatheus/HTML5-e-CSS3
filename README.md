@@ -47,3 +47,16 @@ Fiz diversas anotações e cumpri com os objetivos proporcionados do curso e pos
 - [Exercício 21-1](https://rochamaatheus.github.io/html5-e-css3/ex021/caixa01.html).
 - [Exercício 21-2](https://rochamaatheus.github.io/html5-e-css3/ex021/caixa02.html).
 - [Exercício 21-3](https://rochamaatheus.github.io/html5-e-css3/ex021/caixa03.html).
+- [Exercício 22-1](https://rochamaatheus.github.io/html5-e-css3/ex022/fundo001.html).
+- [Exercício 22-2](https://rochamaatheus.github.io/html5-e-css3/ex022/fundo002.html).
+- [Exercício 22-3](https://rochamaatheus.github.io/html5-e-css3/ex022/fundo003.html).
+- [Exercício 22-4](https://rochamaatheus.github.io/html5-e-css3/ex022/fundo004.html).
+- [Exercício 22-5](https://rochamaatheus.github.io/html5-e-css3/ex022/fundo005.html).
+- [Exercício 22-6](https://rochamaatheus.github.io/html5-e-css3/ex022/fundo006.html).
+- [Exercício 22-7](https://rochamaatheus.github.io/html5-e-css3/ex022/fundo007.html).
+- [Exercício 23-1](https://rochamaatheus.github.io/html5-e-css3/ex023/tabela01.html).
+- [Exercício 23-2](https://rochamaatheus.github.io/html5-e-css3/ex023/tabela02.html).
+- [Exercício 23-3](https://rochamaatheus.github.io/html5-e-css3/ex023/tabela03.html).
+- [Exercício 23-4](https://rochamaatheus.github.io/html5-e-css3/ex023/tabela04.html).
+- [Exercício 23-5](https://rochamaatheus.github.io/html5-e-css3/ex023/tabela05.html).
+- [Exercício 23-6](https://rochamaatheus.github.io/html5-e-css3/ex023/tabela06.html).
