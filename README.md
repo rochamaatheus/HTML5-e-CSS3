@@ -13,3 +13,12 @@
 <h2>📚 Estudos</h2>
 
 Fiz diversas anotações e cumpri com os objetivos proporcionados do curso e posso dizer com certeza que este curso me deu uma boa base para os meus estudos atuais e os que ainda estão por vir
+
+<h2>🧾 Exercícios</h2>
+- [Exercício 1](https://rochamaatheus.github.io/html5-e-css3/ex001/index.html).
+- [Exercício 2](https://rochamaatheus.github.io/html5-e-css3/ex002/index.html).
+- [Exercício 3](https://rochamaatheus.github.io/html5-e-css3/ex003/index.html).
+- [Exercício 4](https://rochamaatheus.github.io/html5-e-css3/ex004/index.html).
+- [Exercício 5](https://rochamaatheus.github.io/html5-e-css3/ex005/index.html).
+- [Exercício 6](https://rochamaatheus.github.io/html5-e-css3/ex006/index.html).
+- [Exercício 7](https://rochamaatheus.github.io/html5-e-css3/ex007/index.html).
