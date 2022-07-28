@@ -1,7 +1,7 @@
 <h1>Curso de HTML5 e CSS3 do Curso em Vídeo</h1>
 
 <div align="center">
-  <a href="https://www.cursoemvideo.com/" target="_blank" rel="external"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png"></a>
+  <a href="https://www.cursoemvideo.com/" target="_blank" rel="external"><img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" alt="Curso em Vídeo" tittle="Curso em Vídeo"></a>
 </div>
 
 <h2>🤔 Sobre o Curso</h2>
